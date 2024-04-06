@@ -72,7 +72,7 @@ end
 
 ******************************************************
 
-@R1I4(RST)/R30
+@R1(RST)/R30
 
 ! R30 Initial Configuration
 conf t
